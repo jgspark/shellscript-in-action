@@ -1,2 +1,3 @@
-# 위치 출력 Shell 
-echo $(which sh)
+#!/usr/bin/bash
+
+echo $(which sh) # 위치 출력 Shell 
