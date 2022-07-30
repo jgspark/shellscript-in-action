@@ -1,6 +1,6 @@
+# Shell Script Docs
 
-
-### Default Command 
+### Bash Command 
 
 shell file run use to `bash`
 
